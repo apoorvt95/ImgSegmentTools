@@ -5,7 +5,7 @@ This repository contains different image processing tools, octave code snippets 
 
 # SegTool
 
-This tool provides users with a GUI.  
+It is an image segmentation tool based on Matlab/Octave files. It provides users with GUI    
 Users can input an image and draw an rectangle around the area to segment.  
 It uses Grab-Cut algorithm (variant of Graph Cut algorithm).
 
