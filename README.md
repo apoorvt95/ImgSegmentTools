@@ -1,7 +1,9 @@
 # ImgSegmentTools
 This repository contains different image processing tools, octave code snippets to perform image segmentation.
 
-**NOTICE: I DO NOT OWN ANY OF THE CODE IN THIS REPOSITORY. I HAVE USED THE CODE FROM VARIOUS OPEN SOURCE RESOURCES ON THE WEB.**
+The Tools included in this repository can be used for plant image segmentation only.
+
+**NOTICE: I DO NOT OWN ANY OF THE CODE IN THIS REPOSITORY. THIS REPOSITORY CONTAINS TOOLS OBTAINED FROM VARIOUS SOURCES.**
 
 # SegTool
 
